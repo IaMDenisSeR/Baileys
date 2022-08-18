@@ -48,13 +48,13 @@
   "peerDependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "jimp": "^0.16.1",
-    "qrcode-terminal": "^0.12.0",
+    "qrcode-terminal": "^0.12.0"
     
   },
   "peerDependenciesMeta": {
     "@adiwajshing/keyed-db": { "optional": true },
     "jimp": { "optional": true },
-    "qrcode-terminal": { "optional": true },
+    "qrcode-terminal": { "optional": true }
     
   },
   "files": [
